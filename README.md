@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts and pratice
+Schell Scripts and pratices
